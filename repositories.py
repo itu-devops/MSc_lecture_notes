@@ -8,8 +8,8 @@ GROUP_REPOS = [
     ],
     [
         "group b",
-        "<name>",
-        ["https://github.com/<organization|user>/<repository_name>"],
+        "catch(RuntimeException){goto f;}",
+        ["https://github.com/JohannesHackl/DevOps26_RE_minitwit.git"],
         "http(s)://<TBA>/<FrontEndURL>",
         "http(s)://<TBA>/<APIURL>",
     ],
