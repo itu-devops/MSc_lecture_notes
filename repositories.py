@@ -1,8 +1,8 @@
 GROUP_REPOS = [
     [
         "group a",
-        "<name>",
-        ["https://github.com/<organization|user>/<repository_name>"],
+        "ZeroDownTime",
+        ["https://github.com/ZeroDownTime-ITU/minitwit_project"],
         "http(s)://<TBA>/<FrontEndURL>",
         "http(s)://<TBA>/<APIURL>",
     ],
