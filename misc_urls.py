@@ -115,12 +115,12 @@ GROUP_URLS = [
         "group n",
         "<name>",
         # Monitoring URL:
-        "<monitoring_url>",
+        "http://168.119.126.80:3001/public-dashboards/0815730723d84ddc8ce543f765e51bc6",
         # Logging URL:
         "<logging_url>",
     ],
     [
-        "group o",
+       "group o",
         "<name>",
         # Monitoring URL:
         "<monitoring_url>",
