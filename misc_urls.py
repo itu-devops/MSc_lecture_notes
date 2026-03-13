@@ -120,18 +120,18 @@ GROUP_URLS = [
         "<logging_url>",
     ],
     [
-       "group o",
-        "<name>",
+        "group o",
+        "Rollback and relax",
         # Monitoring URL:
-        "<monitoring_url>",
+        "http://ec2-13-51-198-31.eu-north-1.compute.amazonaws.com:3001/dashboards",
         # Logging URL:
         "<logging_url>",
     ],
     [
         "group p",
-        "<name>",
+        "EastTOps",
         # Monitoring URL:
-        "<monitoring_url>",
+        "http://164.90.229.101:3000/dashboards",
         # Logging URL:
         "<logging_url>",
     ]
