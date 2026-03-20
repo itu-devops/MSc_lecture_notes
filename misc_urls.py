@@ -25,9 +25,9 @@ GROUP_URLS = [
     ],
     [
         "group d",
-        "<name>",
+        "Dense Dino Nuggets",
         # Monitoring URL:
-        "<monitoring_url>",
+        "http://64.226.82.73:3000",
         # Logging URL:
         "<logging_url>",
     ],
