@@ -94,7 +94,7 @@ GROUP_REPOS = [
         "group q",
         "DevTroopers",
         ["https://github.com/DevTroopers-ITU/itu-minitwit"],
-        "http://46.224.144.214:8080",
-        "http://46.224.144.214:8080",
+        "https://devtroopersminitwit.codes/",
+        "https://devtroopersminitwit.codes/",
     ],
 ]

@@ -134,5 +134,13 @@ GROUP_URLS = [
         "http://164.90.229.101:3000/dashboards",
         # Logging URL:
         "<logging_url>",
+    ],
+     [
+        "group q",
+        "DevTroopers",
+        # Monitoring URL:
+        "https://grafana.devtroopersminitwit.codes/",
+        # Logging URL:
+        "https://grafana.devtroopersminitwit.codes/",
     ]
 ]
