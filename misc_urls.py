@@ -49,9 +49,9 @@ GROUP_URLS = [
     ],
     [
         "group g",
-        "<name>",
+        "DevOpps",
         # Monitoring URL:
-        "<monitoring_url>",
+        "https://monitoring.minitwitter.com/",
         # Logging URL:
         "<logging_url>",
     ],
