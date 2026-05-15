@@ -85,9 +85,9 @@ REPORT_URLS = [
     ],
     [
         "group o",
-        "<name>",
+        "Rollback and relax",
         # Report Release URL:
-        "https://github.com/<gh_id>/<proj_id>/archive/refs/tags/<version_tag>.zip",
+        "https://github.com/ITUdevopsGroup/devops/archive/refs/tags/v2.0.0.zip",
     ],
     [
         "group p",
