@@ -37,9 +37,9 @@ REPORT_URLS = [
     ],
     [
         "group g",
-        "<name>",
+        "DevOpps",
         # Report Release URL:
-        "https://github.com/<gh_id>/<proj_id>/archive/refs/tags/<version_tag>.zip",
+        "https://git.marfavi.com/DevOpps/minitwit/archive/exam-handin.zip",
     ],
     [
         "group h",

@@ -53,7 +53,7 @@ GROUP_URLS = [
         # Monitoring URL:
         "https://monitoring.minitwitter.com/",
         # Logging URL:
-        "<logging_url>",
+        "http://monitoring.minitwitter.com/d/minitwit-logs/",
     ],
     [
         "group h",
