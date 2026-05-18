@@ -79,9 +79,9 @@ REPORT_URLS = [
     ],
     [
         "group n",
-        "<name>",
+        "Diversity",
         # Report Release URL:
-        "https://github.com/<gh_id>/<proj_id>/archive/refs/tags/<version_tag>.zip",
+        "https://github.com/huncut47/diversity/archive/refs/tags/final.zip",
     ],
     [
         "group o",
