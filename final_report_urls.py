@@ -97,7 +97,7 @@ REPORT_URLS = [
     ],
     [
         "group q",
-        "<name>",
+        "DevTroopers",
         # Report Release URL:
         "https://github.com/DevTroopers-ITU/itu-minitwit/archive/refs/tags/2.0.zip",
     ],
