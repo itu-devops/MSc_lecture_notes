@@ -19,9 +19,9 @@ GROUP_URLS = [
         "group c",
         "group c",
         # Monitoring URL:
-        "161.35.68.148:3000",
+        "http://helgeandfriends.com:3000",
         # Logging URL:
-        "http://161.35.68.148:3000/d/38f35159-ba68-4157-b0dd-bcd053bafabd/http-logs-for-web-application?orgId=1&from=now-1h&to=now&timezone=browser",
+        "http://helgeandfriends.com:3000",
     ],
     [
         "group d",
