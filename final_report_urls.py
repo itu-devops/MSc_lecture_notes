@@ -19,9 +19,9 @@ REPORT_URLS = [
     ],
     [
         "group d",
-        "<name>",
+        "Dense Dino Nuggets",
         # Report Release URL:
-        "https://github.com/<gh_id>/<proj_id>/archive/refs/tags/<version_tag>.zip",
+        "https://github.com/Slug-Boi-ITU-Repositories/Dense-Dino-Nuggets/releases/download/v0.8.5/Report+Minitwit_Release.zip",
     ],
     [
         "group e",
