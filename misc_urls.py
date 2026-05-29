@@ -11,9 +11,9 @@ GROUP_URLS = [
         "group b",
         "catch(RuntimeException){goto f;}",
         # Monitoring URL:
-        "http://164.92.186.201:5001/grafana",
+        "https://runtimetwiterror.dev/grafana/dashboards",
         # Logging URL:
-        "<logging_url>",
+        "https://runtimetwiterror.dev/grafana/a/grafana-lokiexplore-app/explore",
     ],
     [
         "group c",

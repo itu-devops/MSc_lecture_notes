@@ -7,9 +7,9 @@ REPORT_URLS = [
     ],
     [
         "group b",
-        "<name>",
+        "catch(RuntimeException){goto f;}",
         # Report Release URL:
-        "https://github.com/<gh_id>/<proj_id>/archive/refs/tags/<version_tag>.zip",
+        "https://github.com/DevOps26-RE/DevOps26_RE_minitwit/archive/refs/tags/v8.0.0.zip",
     ],
     [
         "group c",
