@@ -115,9 +115,9 @@ GROUP_URLS = [
         "group n",
         "<name>",
         # Monitoring URL:
-        "http://91.99.213.62:3001/public-dashboards/d260d937ad1048b2a343ef3a1c25d3e5",
+        "https://grafana.kulturbase.dk/public-dashboards/d260d937ad1048b2a343ef3a1c25d3e5",
         # Logging URL:
-        "<logging_url>",
+        "https://kibana.kulturbase.dk/app/dashboards",
     ],
     [
         "group o",
