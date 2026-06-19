@@ -49,11 +49,11 @@ GROUP_URLS = [
     ],
     [
         "group g",
-        "<name>",
+        "DevOpps",
         # Monitoring URL:
-        "<monitoring_url>",
+        "https://monitoring.minitwitter.com/",
         # Logging URL:
-        "<logging_url>",
+        "http://monitoring.minitwitter.com/d/minitwit-logs/",
     ],
     [
         "group h",
