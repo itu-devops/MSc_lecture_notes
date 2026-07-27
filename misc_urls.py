@@ -143,13 +143,12 @@ GROUP_URLS = [
         # Logging URL:
         "https://grafana.devtroopersminitwit.codes/",
     ],
-    python
-   [
-    "group untitled",
-    "Solo reexam",
-    # Monitoring URL:
-    "http://46.101.179.118:3000/d/minitwit-dashboard/minitwit-dashboard",
-    # Logging URL:
-    "http(s)://<TBA>/",
-  ],
+       [
+        "group untitled",
+        "Solo reexam",
+        # Monitoring URL:
+        "http://46.101.179.118:3000/d/minitwit-dashboard/minitwit-dashboard",
+        # Logging URL:
+        "http://46.101.179.118:3000/explore",
+      ],
 ]
