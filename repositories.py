@@ -98,10 +98,10 @@ GROUP_REPOS = [
         "https://devtroopersminitwit.codes/",
     ],
     [
-    "group Untitled",
-    "Solo reexam",
-    ["https://github.com/Armaaan/devops-minitwit"],
-    "http://46.101.179.118:5000",
-    "http://46.101.179.118:5000",
+        "group untitled",
+        "Solo reexam",
+        ["https://github.com/Armaaan/devops-minitwit"],
+        "https://mini-twit.tech",
+        "https://mini-twit.tech",
     ],
 ]
