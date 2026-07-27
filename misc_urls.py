@@ -147,8 +147,8 @@ GROUP_URLS = [
         "group untitled",
         "Solo reexam",
         # Monitoring URL:
-        "http://46.101.179.118:3000/d/minitwit-dashboard/minitwit-dashboard",
+        "https://grafana.mini-twit.tech/d/minitwit-dashboard/minitwit-dashboard",
         # Logging URL:
-        "http://46.101.179.118:3000/explore",
+        "https://grafana.mini-twit.tech/d/minitwit-dashboard/minitwit-dashboard",
       ],
 ]
