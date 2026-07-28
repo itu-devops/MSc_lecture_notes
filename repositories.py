@@ -98,7 +98,7 @@ GROUP_REPOS = [
         "https://devtroopersminitwit.codes/",
     ],
     [
-        "group untitled",
+        "group arua",
         "Solo reexam",
         ["https://github.com/Armaaan/devops-minitwit"],
         "https://mini-twit.tech",
