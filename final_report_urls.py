@@ -101,4 +101,11 @@ REPORT_URLS = [
         # Report Release URL:
         "https://github.com/<gh_id>/<proj_id>/archive/refs/tags/<version_tag>.zip",
     ],
+
+    [
+        "group arua",
+        "Solo reexam",
+        # Report Release URL:
+        "https://github.com/Armaaan/devops-minitwit/archive/refs/tags/v13.0.0.zip",
+    ],
 ]
